@@ -1,4 +1,5 @@
 fun main() {
+
     val list1 = listOf(1, 2, 3)
     val list2 = listOf(4, 5)
     val list3 = listOf(6, 7, 8, 9)
